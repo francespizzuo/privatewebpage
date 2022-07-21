@@ -1,5 +1,5 @@
 ---
-title: upcoming conference
+title: UPCOMING CONFERENCE
 layout: page
 ---
 
