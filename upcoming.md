@@ -1,6 +1,6 @@
 ---
 title: UPCOMING CONFERENCE
-layout: page
+layout: upcoming
 ---
 
 ### SITE session on Financial Regulation (August 29-31, 2022)
