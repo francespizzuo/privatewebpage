@@ -3,9 +3,9 @@ title: UPCOMING CONFERENCE
 layout: page
 ---
 
-## SITE session on Financial Regulation (August 29-31, 2022)
+# SITE session on Financial Regulation (August 29-31, 2022)
 
-#### Session: Financial Intermediation, August 29
+### Session: Financial Intermediation, August 29
 
 * 11.15 pm-12.00 pm:  **Intermediation via Credit Chains**\
 ([Download paper](https://www.nber.org/system/files/working_papers/w29632/w29632.pdf))\
@@ -32,8 +32,8 @@ Co-author(s): He Yang (Harvard)
 ([Download paper](https://www.nber.org/system/files/working_papers/w30057/w30057.pdf))\
 Presented by: Julia Fonseca (University of Illinois at Urbana-Champaign)\
 Co-author(s): Adrien Matray (Princeton)
-
-#### Session: Financial Intermediation and Race, August 30
+####
+### Session: Financial Intermediation and Race, August 30
 *	9.00 am-9.45 am: **Explaining Racial Disparities in Personal Bankruptcy Outcomes**\
 Presented by: Sasha Indarte (Wharton)\
 Co-author(s): Bronson Argyle (BYU), Ben Iverson (BYU), and Christopher Palmer (MIT)
@@ -52,8 +52,8 @@ Presented by: Lulu Wang (Stanford GSB)\
 Co-author(s): Gregor Matvos (Northwestern Kellogg), and Amit Seru (Stanford GSB)
 #####
 *	12.00 pm-1.30 pm: **Lunch**
-
-#### Session: Financial Intermediation and Policy Design, August 30
+#####
+### Session: Financial Intermediation and Policy Design, August 30
 *	1.30 pm-2.15 pm: **The Design of Defined Contribution Plans**\
 ([Download paper](https://www.nber.org/system/files/working_papers/w29981/w29981.pdf))\
 Presented by: Gaston Illanes (Northwestern)\
@@ -72,13 +72,30 @@ Co-author(s): Jason Allen (Bank of Canada)
 ([Download paper](https://kilianhuber.github.io/website/GormsenHuber2022.pdf))
 Presented by: Kilian Huber (UChicago)\
 Co-author(s): Niels Gormsen (UChicago Booth)
-
-#### Session: Financial Regulation meets IO of Healthcare and Consumer Finance Markets, August 31
-*	8.30 am-9.15 am: Alexander MacKay (Harvard HBS), Mark Egan (Harvard HBS), and Hanbin Yang (Harvard HBS): "What Drives Variation in Investor Portfolios? Evidence from Retirement Plans" ([paper](https://alexandermackay.org/files/What%20Drives%20Variation%20in%20Investor%20Portfolios%20-%20Evidence%20from%20Retirement%20Plans.pdf))
-*	9.15 am-9.30 am: Break
-*	9.30 am-10.15 am: Naoki Aizawa (Wisconsin-Madison), and Ami Ko (Georgetown): "Dynamic Pricing Regulation and Welfare in Insurance Markets" ([paper](http://www.ko-ami.com/uploads/1/0/5/9/105963965/aizawa_ko_nov2021.pdf))
-*	10.15 am-11.00 am: Break
-*	11.00 am-11.45 am: Erica Jiang (USC Marshall), Gloria Yu (SMU), and Jinyuan Zhang (UCLA Anderson): "Bank Competition amid Digital Disruption: Implications for Financial Inclusion"
-*	11.45 am-12.00 pm: Break
-*	12.00 pm-12.45 pm: Ken Hendricks (Wisconsin-Madison), Houde Jean-Francois (Wisconsin-Madison), and Diwakar Raisingh (Wisconsin-Madison): "Asymmetric information in the wholesale market for mortgages: The case of Ginnie Mae loans"
-*	1.00 pm-2.00 pm: Lunch
+#####
+### Session: Financial Regulation meets IO of Healthcare and Consumer Finance Markets, August 31
+*	8.30 am-9.15 am: **What Drives Variation in Investor Portfolios? Evidence from Retirement Plans**\
+([Download paper](https://alexandermackay.org/files/What%20Drives%20Variation%20in%20Investor%20Portfolios%20-%20Evidence%20from%20Retirement%20Plans.pdf))\
+Presented by: Alexander MacKay (Harvard HBS)\
+Co-author(s): Mark Egan (Harvard HBS), and Hanbin Yang (Harvard HBS)
+####
+*	9.15 am-9.30 am: **Break**
+####
+*	9.30 am-10.15 am: **Dynamic Pricing Regulation and Welfare in Insurance Markets**\
+([Download paper](http://www.ko-ami.com/uploads/1/0/5/9/105963965/aizawa_ko_nov2021.pdf))\
+Presented by: Naoki Aizawa (Wisconsin-Madison)\
+Co-author(s): Ami Ko (Georgetown)
+####
+*	10.15 am-11.00 am: **Break**
+####
+*	11.00 am-11.45 am: **Bank Competition amid Digital Disruption: Implications for Financial Inclusion**\
+Presented by: Erica Jiang (USC Marshall)\
+Co-author(s): Gloria Yu (SMU), and Jinyuan Zhang (UCLA Anderson)
+####
+*	11.45 am-12.00 pm: **Break**
+####
+*	12.00 pm-12.45 pm: **Asymmetric information in the wholesale market for mortgages: The case of Ginnie Mae loans**\
+Presented by: Ken Hendricks (Wisconsin-Madison)\
+Co-author(s): Houde Jean-Francois (Wisconsin-Madison), and Diwakar Raisingh (Wisconsin-Madison)
+####
+*	1.00 pm-2.00 pm: **Lunch**
