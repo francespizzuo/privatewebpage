@@ -7,7 +7,7 @@
         {% unless sitepage.url == '/upcoming' or  sitepage.url == '/' or  sitepage.url == '/404' or  sitepage.url == '/upcoming.html' %}
         <a href="{{sitepage.url | absolute_url}}"
             class="navbar-item has-text-grey-light {% if page.url == sitepage.url | absolute_url  %}is-active{% endif %}">
-            { % unless sitepage.url == '/upcoming.html' or sitepage.url == '/upcoming' %}
+            {% unless sitepage.url == '/upcoming.html' or sitepage.url == '/upcoming' %}
             {{sitepage.title}}
         </a>
         {% endunless %}
