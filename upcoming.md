@@ -38,4 +38,4 @@ layout: page
 *	11.00 am-11.45 am: Erica Jiang (USC Marshall), Gloria Yu (SMU), and Jinyuan Zhang (UCLA Anderson): "Bank Competition amid Digital Disruption: Implications for Financial Inclusion"
 *	11.45 am-12.00 pm: Break
 *	12.00 pm-12.45 pm: Ken Hendricks (Wisconsin-Madison), Houde Jean-Francois (Wisconsin-Madison), and Diwakar Raisingh (Wisconsin-Madison): "Asymmetric information in the wholesale market for mortgages: The case of Ginnie Mae loans"
-*	1.00 pm-2.00 pm: Break
+*	1.00 pm-2.00 pm: Lunch
