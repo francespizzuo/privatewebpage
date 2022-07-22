@@ -24,7 +24,7 @@ layout: upcoming
 *	12.00 pm-1.30 pm: Lunch
 
 #### Session: Financial Intermediation and Policy Design, August 30
-*	1.30 pm-2.15 pm: Gaston Illanes (Northwestern), and Vivek Bhattacharya: "The Design of Defined Contribution Plans" ([paper](https://www.nber.org/system/files/working_papers/w29981/w29981.pdf))
+*	1.30 pm-2.15 pm: Gaston Illanes (Northwestern), and Vivek Bhattacharya (Northwestern): "The Design of Defined Contribution Plans" ([paper](https://www.nber.org/system/files/working_papers/w29981/w29981.pdf))
 *	2.15 pm-2.30 pm: Break
 *	2.30 pm-3.15 pm: Daniel Greenwald (MIT), and Jason Allen (Bank of Canada): "Managing a House Boom" ([paper](http://www.dlgreenwald.com/uploads/4/5/2/8/45280895/cdn_draft.pdf))
 *	3.15 pm-3.30 pm: Break
