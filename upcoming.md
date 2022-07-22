@@ -3,7 +3,7 @@ title: UPCOMING CONFERENCE
 layout: upcoming
 ---
 
-### SITE session on Financial Regulation (August 29-31, 2022)
+## SITE session on Financial Regulation (August 29-31, 2022)
 
 #### Session: Financial Intermediation, August 29
 
