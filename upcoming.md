@@ -22,7 +22,7 @@ Co-author(s): Santosh Angol (Wharton), Vimal Balasubramaniam (Queen Mary), and A
 Presented by: Chenzi Xu (Stanford GSB)\
 Co-author(s): He Yang (Harvard)
 *	3.15 pm-3.30 pm: **Break**
-*	3.30 pm-4.15 pm: **The Real Effects of Banking the Poor: Evidence from Brazil**\ 
+*	3.30 pm-4.15 pm: **The Real Effects of Banking the Poor: Evidence from Brazil**\
 ([Download paper](https://www.nber.org/system/files/working_papers/w30057/w30057.pdf))\
 Presented by: Julia Fonseca (University of Illinois at Urbana-Champaign)\
 Co-author(s): Adrien Matray (Princeton)
