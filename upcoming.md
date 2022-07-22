@@ -28,12 +28,19 @@ Presented by: Julia Fonseca (University of Illinois at Urbana-Champaign)\
 Co-author(s): Adrien Matray (Princeton)
 
 #### Session: Financial Intermediation and Race, August 30
-*	9.00 am-9.45 am: Sasha Indarte (Wharton), Bronson Argyle (BYU), Ben Iverson (BYU), and Christopher Palmer (MIT): "Explaining Racial Disparities in Personal Bankruptcy Outcomes" 
-*	9.45 am-10.00 am: Break
-*	10.00 am-10.45 am: Arpit Gupta (NYU Stern), Christopher Hansman (Imperial), and Pierre Mabille (INSEAD): "Financial Constraints and the Racial Housing Gap" ([paper](https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID4163828_code3174931.pdf?abstractid=3969433&mirid=1))
-*	10.45 am-11.15 am: Break
-*	11.15 am-12.00 pm: Lulu Wang (Stanford GSB), Gregor Matvos (Northwestern Kellogg), and Amit Seru (Stanford GSB): "Considering Racial Consideration Sets in Housing Market"
-*	12.00 pm-1.30 pm: Lunch
+*	9.00 am-9.45 am: **Explaining Racial Disparities in Personal Bankruptcy Outcomes**\
+Presented by: Sasha Indarte (Wharton)\
+Co-author(s): Bronson Argyle (BYU), Ben Iverson (BYU), and Christopher Palmer (MIT)
+*	9.45 am-10.00 am: **Break**
+*	10.00 am-10.45 am: **Financial Constraints and the Racial Housing Gap**\
+([Download paper](https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID4163828_code3174931.pdf?abstractid=3969433&mirid=1))\
+Presented by: Arpit Gupta (NYU Stern)\
+Co-author(s): Christopher Hansman (Imperial), and Pierre Mabille (INSEAD)
+*	10.45 am-11.15 am: **Break**
+*	11.15 am-12.00 pm: **Considering Racial Consideration Sets in Housing Market**\
+Presented by: Lulu Wang (Stanford GSB)\
+Co-author(s): Gregor Matvos (Northwestern Kellogg), and Amit Seru (Stanford GSB)
+*	12.00 pm-1.30 pm: **Lunch**
 
 #### Session: Financial Intermediation and Policy Design, August 30
 *	1.30 pm-2.15 pm: Gaston Illanes (Northwestern), and Vivek Bhattacharya (Northwestern): "The Design of Defined Contribution Plans" ([paper](https://www.nber.org/system/files/working_papers/w29981/w29981.pdf))
