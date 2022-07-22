@@ -17,7 +17,7 @@ Co-author(s): Zhiguo Hue (UChicago Booth)
 Presented by: Tarun Ramadorai (Imperial)\
 Co-author(s): Santosh Angol (Wharton), Vimal Balasubramaniam (Queen Mary), and Antoine Uettwiller (Imperial)
 * 1.00 pm-2.30 pm: **Lunch**
-*	2.30 pm-3.15 pm: **Real Effects of Stabilizing Private Money Creation**\ 
+*	2.30 pm-3.15 pm: **Real Effects of Stabilizing Private Money Creation**\
 ([Download paper](https://chenzi-xu.com/docs/nationalbanks_xu_yang.pdf))\
 Presented by: Chenzi Xu (Stanford GSB)\
 Co-author(s): He Yang (Harvard)
