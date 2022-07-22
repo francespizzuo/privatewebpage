@@ -7,17 +7,25 @@ layout: page
 
 #### Session: Financial Intermediation, August 29
 
-* 11.15 pm-12.00 pm: "Intermediation via Credit Chains" ([paper](https://www.nber.org/system/files/working_papers/w29632/w29632.pdf))\
+* 11.15 pm-12.00 pm: **Intermediation via Credit Chains**\
+([Download paper](https://www.nber.org/system/files/working_papers/w29632/w29632.pdf))\
 Presented by: Jian Li (Columbia)\
 Co-author(s): Zhiguo Hue (UChicago Booth)
 * 12.00 pm-12.15 pm: Break
-*	12.15 pm-1.00 pm: "A Bad Bunch: Asset Value Under-Reporting in the Mumbai Real Estate Market" ([paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4055401))
-Presented by: Tarun Ramadorai (Imperial)
+*	12.15 pm-1.00 pm: **A Bad Bunch: Asset Value Under-Reporting in the Mumbai Real Estate Market**\
+([Download paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4055401))\
+Presented by: Tarun Ramadorai (Imperial)\
 Co-author(s): Santosh Angol (Wharton), Vimal Balasubramaniam (Queen Mary), and Antoine Uettwiller (Imperial)
-* 1.00 pm-2.30 pm: Lunch
-*	2.30 pm-3.15 pm: Chenzi Xu (Stanford GSB), and He Yang (Harvard): "Real Effects of Stabilizing Private Money Creation" ([paper](https://chenzi-xu.com/docs/nationalbanks_xu_yang.pdf))
-*	3.15 pm-3.30 pm: Break
-*	3.30 pm-4.15 pm: Julia Fonseca (University of Illinois at Urbana-Champaign), and Adrien Matray (Princeton): "The Real Effects of Banking the Poor: Evidence from Brazil" ([paper](https://www.nber.org/system/files/working_papers/w30057/w30057.pdf))
+* 1.00 pm-2.30 pm: **Lunch**
+*	2.30 pm-3.15 pm: **Real Effects of Stabilizing Private Money Creation**\ 
+([Download paper](https://chenzi-xu.com/docs/nationalbanks_xu_yang.pdf))\
+Presented by: Chenzi Xu (Stanford GSB)\
+Co-author(s): He Yang (Harvard)\
+*	3.15 pm-3.30 pm: **Break**
+*	3.30 pm-4.15 pm: **The Real Effects of Banking the Poor: Evidence from Brazil**\ 
+([Download paper](https://www.nber.org/system/files/working_papers/w30057/w30057.pdf))\
+Presented by: Julia Fonseca (University of Illinois at Urbana-Champaign)\
+Co-author(s): Adrien Matray (Princeton)
 
 #### Session: Financial Intermediation and Race, August 30
 *	9.00 am-9.45 am: Sasha Indarte (Wharton), Bronson Argyle (BYU), Ben Iverson (BYU), and Christopher Palmer (MIT): "Explaining Racial Disparities in Personal Bankruptcy Outcomes" 
