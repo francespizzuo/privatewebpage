@@ -8,7 +8,7 @@
         <a href="{{sitepage.url | absolute_url}}"
             class="navbar-item has-text-grey-light {% if page.url == sitepage.url | absolute_url  %}is-active{% endif %}">
             {{sitepage.title}}
-            {% fpr sitepage in site.html_pages %}
+            {% for sitepage in site.html_pages %}
             {% unless sitepage.url == '/upcoming.html' or sitepage.url == '/upcoming' %}
         </a>
         {% endunless %}
