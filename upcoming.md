@@ -7,9 +7,13 @@ layout: page
 
 #### Session: Financial Intermediation, August 29
 
-* 11.15 pm-12.00 pm: Jian Li (Columbia), and Zhiguo Hue (UChicago Booth): "Intermediation via Credit Chains" ([paper](https://www.nber.org/system/files/working_papers/w29632/w29632.pdf))
+* 11.15 pm-12.00 pm: "Intermediation via Credit Chains" ([paper](https://www.nber.org/system/files/working_papers/w29632/w29632.pdf))
+Presented by: Jian Li (Columbia) 
+Co-author(s): Zhiguo Hue (UChicago Booth)
 * 12.00 pm-12.15 pm: Break
-*	12.15 pm-1.00 pm: Tarun Ramadorai (Imperial), Santosh Angol (Wharton), Vimal Balasubramaniam (Queen Mary), and Antoine Uettwiller (Imperial): "A Bad Bunch: Asset Value Under-Reporting in the Mumbai Real Estate Market" ([paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4055401))
+*	12.15 pm-1.00 pm: "A Bad Bunch: Asset Value Under-Reporting in the Mumbai Real Estate Market" ([paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4055401))
+Presented by: Tarun Ramadorai (Imperial)
+Co-author(s): Santosh Angol (Wharton), Vimal Balasubramaniam (Queen Mary), and Antoine Uettwiller (Imperial)
 * 1.00 pm-2.30 pm: Lunch
 *	2.30 pm-3.15 pm: Chenzi Xu (Stanford GSB), and He Yang (Harvard): "Real Effects of Stabilizing Private Money Creation" ([paper](https://chenzi-xu.com/docs/nationalbanks_xu_yang.pdf))
 *	3.15 pm-3.30 pm: Break
