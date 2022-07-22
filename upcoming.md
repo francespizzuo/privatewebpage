@@ -7,7 +7,7 @@ layout: page
 
 #### Session: Financial Intermediation, August 29
 
-* 11.15 pm-12.00 pm: "Intermediation via Credit Chains" ([paper](https://www.nber.org/system/files/working_papers/w29632/w29632.pdf))\ 
+* 11.15 pm-12.00 pm: "Intermediation via Credit Chains" ([paper](https://www.nber.org/system/files/working_papers/w29632/w29632.pdf))\
 Presented by: Jian Li (Columbia)\
 Co-author(s): Zhiguo Hue (UChicago Booth)\
 * 12.00 pm-12.15 pm: Break
