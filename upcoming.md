@@ -7,7 +7,7 @@ layout: page
 
 ### <mark style="background-color: #D3D3D3">Monday, August 29, 2022</mark> 
 
-* 11.15 pm-12.00 pm: **Intermediation via Credit Chains**([Download paper](https://www.nber.org/system/files/working_papers/w29632/w29632.pdf))\
+* 11.15 pm-12.00 pm: **Intermediation via Credit Chains** ([Download paper](https://www.nber.org/system/files/working_papers/w29632/w29632.pdf))\
 Presented by: Jian Li (Columbia)\
 Co-author(s): Zhiguo He (University of Chicago)
 * 12.00 pm-12.15 pm: **Break**
