@@ -7,8 +7,8 @@ layout: page
 
 ### <mark style="background-color: #D3D3D3">Monday, August 29, 2022</mark> 
 
-* 11.15 pm-12.00 pm: **Intermediation via Credit Chains** ([Download paper](https://www.nber.org/system/files/working_papers/w29632/w29632.pdf))\
-Presented by: Jian Li (Columbia)\
+* 11.15 pm-12.00 pm: <strong>**Intermediation via Credit Chains** ([Download paper](https://www.nber.org/system/files/working_papers/w29632/w29632.pdf))</strong>\
+<strong></strong>Presented by: Jian Li (Columbia)\
 Co-author(s): Zhiguo He (University of Chicago)
 * 12.00 pm-12.15 pm: **Break**
 *	12.15 pm-1.00 pm: **A Bad Bunch: Asset Value Under-Reporting in the Mumbai Real Estate Market** ([Download paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4055401))\
