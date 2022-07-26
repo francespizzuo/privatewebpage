@@ -34,38 +34,38 @@ layout: page
 ### <mark style="background-color: #D3D3D3">Tuesday, August 30, 2022</mark>
 
 9.00 am-9.45 am: **Explaining Racial Disparities in Personal Bankruptcy Outcomes**\
-*Presented by:* Sasha Indarte (Wharton)\
-*Co-author(s):* Bronson Argyle (BYU), Ben Iverson (BYU), and Christopher Palmer (MIT)
+Presented by: Sasha Indarte (Wharton)\
+Co-author(s): Bronson Argyle (BYU), Ben Iverson (BYU), and Christopher Palmer (MIT)
 
 9.45 am-10.00 am: **Break**
 
 10.00 am-10.45 am: **Financial Constraints and the Racial Housing Gap** ([Download paper](https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID4163828_code3174931.pdf?abstractid=3969433&mirid=1))\
-*Presented by:* Arpit Gupta (NYU Stern)\
-*Co-author(s):* Christopher Hansman (Imperial), and Pierre Mabille (INSEAD)
+Presented by: Arpit Gupta (NYU Stern)\
+Co-author(s): Christopher Hansman (Imperial), and Pierre Mabille (INSEAD)
 
 10.45 am-11.15 am: **Break**
 
 11.15 am-12.00 pm: **Considering Racial Consideration Sets in Housing Market**\
-*Presented by:* Lulu Wang (Stanford University)\
-*Co-author(s):* Gregor Matvos (Northwestern Kellogg), and Amit Seru (Stanford University)
+Presented by: Lulu Wang (Stanford University)\
+Co-author(s): Gregor Matvos (Northwestern Kellogg), and Amit Seru (Stanford University)
 
 12.00 pm-1.30 pm: **Lunch**
 
 1.30 pm-2.15 pm: **The Design of Defined Contribution Plans** ([Download paper](https://www.nber.org/system/files/working_papers/w29981/w29981.pdf))\
-*Presented by:* Gastón Illanes (Northwestern)\
-*Co-author(s):* Vivek Bhattacharya (Northwestern)
+Presented by: Gastón Illanes (Northwestern)\
+Co-author(s): Vivek Bhattacharya (Northwestern)
 
 2.15 pm-2.30 pm: **Break**
 
 2.30 pm-3.15 pm: **Managing a Housing Boom** ([Download paper](http://www.dlgreenwald.com/uploads/4/5/2/8/45280895/cdn_draft.pdf))\
-*Presented by:* Daniel Greenwald (MIT)\
-*Co-author(s):* Jason Allen (Bank of Canada)
+Presented by: Daniel Greenwald (MIT)\
+Co-author(s): Jason Allen (Bank of Canada)
 
 3.15 pm-3.30 pm: **Break**
 
 3.30 pm-4.15 pm: **Corporate Discount Rates** ([Download paper](https://kilianhuber.github.io/website/GormsenHuber2022.pdf))\
-*Presented by:* Kilian Huber (University of Chicago)\
-*Co-author(s):* Niels Gormsen (University of Chicago)\
+Presented by: Kilian Huber (University of Chicago)\
+Co-author(s): Niels Gormsen (University of Chicago)\
 &nbsp;
 
 ### <mark style="background-color: #D3D3D3">Wednesday, August 31, 2022</mark>
