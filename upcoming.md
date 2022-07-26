@@ -53,7 +53,7 @@ layout: page
 
 ### <mark style="background-color: #D3D3D3">Wednesday, August 31, 2022</mark>
 
-*	8.30 am-9.15 am: **What Drives Variation in Investor Portfolios? Evidence from Retirement Plans** ([Download paper](https://alexandermackay.org/files/What%20Drives%20Variation%20in%20Investor%20Portfolios%20-%20Evidence%20from%20Retirement%20Plans.pdf))
+*	8.30 am-9.15 am: **What Drives Variation in Investor Portfolios? Evidence from Retirement Plans** ([Download paper](https://alexandermackay.org/files/What%20Drives%20Variation%20in%20Investor%20Portfolios%20-%20Evidence%20from%20Retirement%20Plans.pdf))\
 Presented by: Alexander MacKay (Harvard University)\
 Co-author(s): Mark Egan (Harvard HBS), and Hanbin Yang (Harvard University)
 *	9.15 am-9.30 am: **Break**
