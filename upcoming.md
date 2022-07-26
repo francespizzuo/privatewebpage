@@ -7,21 +7,21 @@ layout: page
 
 ### <mark style="background-color: #D3D3D3">Monday, August 29, 2022</mark> 
 
-* 11.15 pm-12.00 pm: **Intermediation via Credit Chains** ([Download paper](https://www.nber.org/system/files/working_papers/w29632/w29632.pdf))\
-&ensp; &ensp; &ensp; &ensp; &ensp;  &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Presented by: Jian Li (Columbia)\
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp;  &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Co-author(s): Zhiguo He (University of Chicago)
-* 12.00 pm-12.15 pm: **Break**
-*	12.15 pm-1.00 pm: **A Bad Bunch: Asset Value Under-Reporting in the Mumbai Real Estate Market** ([Download paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4055401))\
-&ensp; &ensp; &ensp; &ensp; &ensp;  &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Presented by: Tarun Ramadorai (Imperial)\
-&ensp; &ensp; &ensp; &ensp; &ensp;  &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Co-author(s): Santosh Anagol (Wharton), Vimal Balasubramaniam (Queen Mary), and Antoine Uettwiller (Imperial)
-* 1.00 pm-2.30 pm: **Lunch**
-*	2.30 pm-3.15 pm: **Real Effects of Stabilizing Private Money Creation** ([Download paper](https://chenzi-xu.com/docs/nationalbanks_xu_yang.pdf))\
-&ensp; &ensp; &ensp; &ensp; &ensp;  &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Presented by: Chenzi Xu (Stanford University)\
-&ensp; &ensp; &ensp; &ensp; &ensp;  &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Co-author(s): He Yang (Harvard University)
-*	3.15 pm-3.30 pm: **Break**
-*	3.30 pm-4.15 pm: **The Real Effects of Banking the Poor: Evidence from Brazil** ([Download paper](https://www.nber.org/system/files/working_papers/w30057/w30057.pdf))\
-&ensp; &ensp; &ensp; &ensp; &ensp;  &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Presented by: Julia Fonseca (University of Illinois at Urbana-Champaign)\
-&ensp; &ensp; &ensp; &ensp; &ensp;  &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Co-author(s): Adrien Matray (Princeton)
+11.15 pm-12.00 pm: **Intermediation via Credit Chains** ([Download paper](https://www.nber.org/system/files/working_papers/w29632/w29632.pdf))\
+&ensp; &ensp; &ensp; &ensp; &ensp;  &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Presented by: Jian Li (Columbia)\
+&ensp; &ensp; &ensp; &ensp; &ensp; &ensp;  &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Co-author(s): Zhiguo He (University of Chicago)\
+12.00 pm-12.15 pm: **Break**\
+12.15 pm-1.00 pm: **A Bad Bunch: Asset Value Under-Reporting in the Mumbai Real Estate Market** ([Download paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4055401))\
+&ensp; &ensp; &ensp; &ensp; &ensp;  &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Presented by: Tarun Ramadorai (Imperial)\
+&ensp; &ensp; &ensp; &ensp; &ensp;  &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Co-author(s): Santosh Anagol (Wharton), Vimal Balasubramaniam (Queen Mary), and Antoine Uettwiller (Imperial)\
+1.00 pm-2.30 pm: **Lunch**\
+2.30 pm-3.15 pm: **Real Effects of Stabilizing Private Money Creation** ([Download paper](https://chenzi-xu.com/docs/nationalbanks_xu_yang.pdf))\
+&ensp; &ensp; &ensp; &ensp; &ensp;  &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Presented by: Chenzi Xu (Stanford University)\
+&ensp; &ensp; &ensp; &ensp; &ensp;  &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Co-author(s): He Yang (Harvard University)\
+3.15 pm-3.30 pm: **Break**\
+3.30 pm-4.15 pm: **The Real Effects of Banking the Poor: Evidence from Brazil** ([Download paper](https://www.nber.org/system/files/working_papers/w30057/w30057.pdf))\
+&ensp; &ensp; &ensp; &ensp; &ensp;  &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Presented by: Julia Fonseca (University of Illinois at Urbana-Champaign)\
+&ensp; &ensp; &ensp; &ensp; &ensp;  &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Co-author(s): Adrien Matray (Princeton)\
 
 
 ### <mark style="background-color: #D3D3D3">Tuesday, August 30, 2022</mark>
@@ -53,10 +53,10 @@ layout: page
 
 ### <mark style="background-color: #D3D3D3">Wednesday, August 31, 2022</mark>
 
-*	8.30 am-9.15 am: **What Drives Variation in Investor Portfolios? Evidence from Retirement Plans** ([Download paper](https://alexandermackay.org/files/What%20Drives%20Variation%20in%20Investor%20Portfolios%20-%20Evidence%20from%20Retirement%20Plans.pdf))\
+8.30 am-9.15 am: **What Drives Variation in Investor Portfolios? Evidence from Retirement Plans** ([Download paper](https://alexandermackay.org/files/What%20Drives%20Variation%20in%20Investor%20Portfolios%20-%20Evidence%20from%20Retirement%20Plans.pdf))\
 Presented by: Alexander MacKay (Harvard University)\
-Co-author(s): Mark Egan (Harvard HBS), and Hanbin Yang (Harvard University)
-*	9.15 am-9.30 am: **Break**
+Co-author(s): Mark Egan (Harvard HBS), and Hanbin Yang (Harvard University)\
+9.15 am-9.30 am: **Break**
 *	9.30 am-10.15 am: **Dynamic Pricing Regulation and Welfare in Insurance Markets** ([Download paper](http://www.ko-ami.com/uploads/1/0/5/9/105963965/aizawa_ko_nov2021.pdf))\
 Presented by: Naoki Aizawa (Wisconsin-Madison)\
 Co-author(s): Ami Ko (Georgetown)
