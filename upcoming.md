@@ -75,28 +75,22 @@ Presented by: Alexander MacKay (Harvard University)\
 Co-author(s): Mark Egan (Harvard HBS), and Hanbin Yang (Harvard University)&nbsp; 
 &nbsp;
 
-9.15 am-9.30 am: **Break**\
-&nbsp;
+9.15 am-9.30 am: **Break**
 
 9.30 am-10.15 am: **Dynamic Pricing Regulation and Welfare in Insurance Markets** ([Download paper](http://www.ko-ami.com/uploads/1/0/5/9/105963965/aizawa_ko_nov2021.pdf))\
 Presented by: Naoki Aizawa (Wisconsin-Madison)\
-Co-author(s): Ami Ko (Georgetown)\
-&nbsp;
+Co-author(s): Ami Ko (Georgetown)
 
 10.15 am-11.00 am: **Break**
-&nbsp;
 
 11.00 am-11.45 am: **Bank Competition amid Digital Disruption: Implications for Financial Inclusion**\
 Presented by: Erica Jiang (USC Marshall)\
-Co-author(s): Gloria Yu (SMU), and Jinyuan Zhang (UCLA Anderson)\
-&nbsp;
+Co-author(s): Gloria Yu (SMU), and Jinyuan Zhang (UCLA Anderson)
 
-11.45 am-12.00 pm: **Break**\
-&nbsp;
+11.45 am-12.00 pm: **Break**
 
 12.00 pm-12.45 pm: **Asymmetric information in the wholesale market for mortgages: The case of Ginnie Mae loans**\
 Presented by: Ken Hendricks (Wisconsin-Madison)\
-Co-author(s): Houde Jean-François (Wisconsin-Madison), and Diwakar Raisingh (Wisconsin-Madison)\
-&nbsp;
+Co-author(s): Houde Jean-François (Wisconsin-Madison), and Diwakar Raisingh (Wisconsin-Madison)
 
 1.00 pm-2.00 pm: **Lunch**
