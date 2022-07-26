@@ -21,7 +21,7 @@ layout: page
 3.15 pm-3.30 pm: **Break**\
 3.30 pm-4.15 pm: **The Real Effects of Banking the Poor: Evidence from Brazil** ([Download paper](https://www.nber.org/system/files/working_papers/w30057/w30057.pdf))\
 &ensp; &ensp; &ensp; &ensp; &ensp;  &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Presented by: Julia Fonseca (University of Illinois at Urbana-Champaign)\
-&ensp; &ensp; &ensp; &ensp; &ensp;  &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Co-author(s): Adrien Matray (Princeton)\
+&ensp; &ensp; &ensp; &ensp; &ensp;  &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Co-author(s): Adrien Matray (Princeton)
 
 
 ### <mark style="background-color: #D3D3D3">Tuesday, August 30, 2022</mark>
