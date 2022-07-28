@@ -3,93 +3,169 @@ title: UPCOMING CONFERENCE
 layout: page
 ---
 
-# SITE session on Financial Regulation (August 29-31, 2022)
+<html>
 
-### <mark style="background-color: #D3D3D3">Monday, August 29, 2022</mark> 
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=utf-8">
+<meta name=Generator content="Microsoft Word 15 (filtered)">
 
-11.15 pm-12.00 pm: **Intermediation via Credit Chains** ([Download paper](https://www.nber.org/system/files/working_papers/w29632/w29632.pdf))\
-Presented by: Jian Li (Columbia)\
-Co-author(s): Zhiguo He (University of Chicago)
+</head>
 
-12.00 pm-12.15 pm: **Break**
+<body lang=it-US link="#0563C1" vlink="#954F72" style='word-wrap:break-word'>
 
-12.15 pm-1.00 pm: **A Bad Bunch: Asset Value Under-Reporting in the Mumbai Real Estate Market** ([Download paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4055401))\
-Presented by: Tarun Ramadorai (Imperial)\
-Co-author(s): Santosh Anagol (Wharton), Vimal Balasubramaniam (Queen Mary), and Antoine Uettwiller (Imperial)
+<div class=WordSection1>
 
-1.00 pm-2.30 pm: **Lunch**
+<p class=MsoNormal style='background:#F2F2F2'><b><span lang=EN-US
+style='color:black'>Monday, August 29, 2022</span></b></p>
 
-2.30 pm-3.15 pm: **Real Effects of Stabilizing Private Money Creation** ([Download paper](https://chenzi-xu.com/docs/nationalbanks_xu_yang.pdf))\
-Presented by: Chenzi Xu (Stanford University)\
-Co-author(s): He Yang (Harvard University)
+<p class=MsoNormal style='margin-left:112.5pt;text-indent:-94.5pt'><span
+lang=EN-US>11.15 pm-12.00 pm:&nbsp;<b>Intermediation via Credit Chains </b>(<a
+href="https://www.nber.org/system/files/working_papers/w29632/w29632.pdf">Download
+paper</a>)<br>
+Presented by: Jian Li (Columbia)<br>
+Co-author(s): Zhiguo He (University of Chicago)</span></p>
 
-3.15 pm-3.30 pm: **Break**
+<p class=MsoNormal style='margin-left:.25in'><span lang=EN-US>12.00 pm-12.15
+pm:&nbsp;<b>Break</b></span></p>
 
-3.30 pm-4.15 pm: **The Real Effects of Banking the Poor: Evidence from Brazil** ([Download paper](https://www.nber.org/system/files/working_papers/w30057/w30057.pdf))\
-Presented by: Julia Fonseca (University of Illinois at Urbana-Champaign)\
-Co-author(s): Adrien Matray (Princeton)\
-&nbsp;
+<p class=MsoNormal style='margin-left:1.5in;text-indent:-1.25in'><span
+lang=EN-US>12.15 pm-1.00 pm:&nbsp;<b>A Bad Bunch: Asset Value Under-Reporting
+in the Mumbai Real Estate Market</b> (<a
+href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4055401">Download
+paper</a>)<br>
+Presented by: Tarun Ramadorai (Imperial)<br>
+Co-author(s): Santosh Anagol (Wharton), Vimal Balasubramaniam (Queen Mary), and
+Antoine Uettwiller (Imperial)</span></p>
 
-### <mark style="background-color: #D3D3D3">Tuesday, August 30, 2022</mark>
+<p class=MsoNormal style='text-indent:.25in'><span lang=EN-US>1.00 pm-2.30
+pm:&nbsp;<b>Lunch</b></span></p>
 
-9.00 am-9.45 am: **Explaining Racial Disparities in Personal Bankruptcy Outcomes**\
-Presented by: Sasha Indarte (Wharton)\
-Co-author(s): Bronson Argyle (BYU), Ben Iverson (BYU), and Christopher Palmer (MIT)
+<p class=MsoNormal style='margin-left:1.5in;text-indent:-1.25in'><span
+lang=EN-US>2.30 pm-3.15 pm:&nbsp;<b>Real Effects of Stabilizing Private Money
+Creation </b>(<a href="https://chenzi-xu.com/docs/nationalbanks_xu_yang.pdf">Download
+paper</a>)<br>
+Presented by: Chenzi Xu (Stanford University)<br>
+Co-author(s): He Yang (Harvard University)</span></p>
 
-9.45 am-10.00 am: **Break**
+<p class=MsoNormal style='text-indent:.25in'><span lang=EN-US>3.15 pm-3.30
+pm:&nbsp;<b>Break</b></span></p>
 
-10.00 am-10.45 am: **Financial Constraints and the Racial Housing Gap** ([Download paper](https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID4163828_code3174931.pdf?abstractid=3969433&mirid=1))\
-Presented by: Arpit Gupta (NYU Stern)\
-Co-author(s): Christopher Hansman (Imperial), and Pierre Mabille (INSEAD)
+<p class=MsoNormal style='margin-left:103.5pt;text-indent:-85.5pt'><span
+lang=EN-US>3.30 pm-4.15 pm:&nbsp;<b>The Real Effects of Banking the Poor:
+Evidence from Brazil</b> (<a
+href="https://www.nber.org/system/files/working_papers/w30057/w30057.pdf">Download
+paper</a>)<br>
+Presented by: Julia Fonseca (University of Illinois at Urbana-Champaign)<br>
+Co-author(s): Adrien Matray (Princeton)</span></p>
 
-10.45 am-11.15 am: **Break**
+<p class=MsoNormal style='background:#F2F2F2'><b><span lang=EN-US
+style='color:black'>Tuesday, August 30, 2022</span></b></p>
 
-11.15 am-12.00 pm: **Considering Racial Consideration Sets in Housing Market**\
-Presented by: Lulu Wang (Stanford University)\
-Co-author(s): Gregor Matvos (Northwestern Kellogg), and Amit Seru (Stanford University)
+<p class=MsoNormal style='margin-left:1.5in;text-indent:-1.25in'><span
+lang=EN-US>9.00 am-9.45 am:&nbsp;<b>Explaining Racial Disparities in Personal
+Bankruptcy Outcomes</b><br>
+Presented by: Sasha Indarte (Wharton)<br>
+Co-author(s): Bronson Argyle (BYU), Ben Iverson (BYU), and Christopher Palmer
+(MIT)</span></p>
 
-12.00 pm-1.30 pm: **Lunch**
+<p class=MsoNormal style='text-indent:.25in'><span lang=EN-US>9.45 am-10.00
+am:&nbsp;<b>Break</b></span></p>
 
-1.30 pm-2.15 pm: **The Design of Defined Contribution Plans** ([Download paper](https://www.nber.org/system/files/working_papers/w29981/w29981.pdf))\
-Presented by: Gastón Illanes (Northwestern)\
-Co-author(s): Vivek Bhattacharya (Northwestern)
+<p class=MsoNormal style='margin-left:1.5in;text-indent:-1.25in'><span
+lang=EN-US>10.00 am-10.45 am:&nbsp;<b>Financial Constraints and the Racial
+Housing Gap </b>(<a
+href="https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID4163828_code3174931.pdf?abstractid=3969433&amp;mirid=1">Download
+paper</a>)<br>
+Presented by: Arpit Gupta (NYU Stern)<br>
+Co-author(s): Christopher Hansman (Imperial), and Pierre Mabille (INSEAD)</span></p>
 
-2.15 pm-2.30 pm: **Break**
+<p class=MsoNormal style='text-indent:.25in'><span lang=EN-US>10.45 am-11.15
+am:&nbsp;<b>Break</b></span></p>
 
-2.30 pm-3.15 pm: **Managing a Housing Boom** ([Download paper](http://www.dlgreenwald.com/uploads/4/5/2/8/45280895/cdn_draft.pdf))\
-Presented by: Daniel Greenwald (MIT)\
-Co-author(s): Jason Allen (Bank of Canada)
+<p class=MsoNormal style='margin-left:1.5in;text-indent:-1.25in'><span
+lang=EN-US>11.15 am-12.00 pm:&nbsp;<b>Considering Racial Consideration Sets in
+Housing Market</b><br>
+Presented by: Lulu Wang (Stanford University)<br>
+Co-author(s): Gregor Matvos (Northwestern Kellogg), and Amit Seru (Stanford
+University)</span></p>
 
-3.15 pm-3.30 pm: **Break**
+<p class=MsoNormal style='text-indent:.25in'><span lang=EN-US>12.00 pm-1.30
+pm:&nbsp;<b>Lunch</b></span></p>
 
-3.30 pm-4.15 pm: **Corporate Discount Rates** ([Download paper](https://kilianhuber.github.io/website/GormsenHuber2022.pdf))\
-Presented by: Kilian Huber (University of Chicago)\
-Co-author(s): Niels Gormsen (University of Chicago)\
-&nbsp;
+<p class=MsoNormal style='margin-left:103.5pt;text-indent:-85.5pt'><span
+lang=EN-US>1.30 pm-2.15 pm:&nbsp;<b>The Design of Defined Contribution Plans</b>
+(<a href="https://www.nber.org/system/files/working_papers/w29981/w29981.pdf">Download
+paper</a>)<br>
+Presented by: Gastón Illanes (Northwestern)<br>
+Co-author(s): Vivek Bhattacharya (Northwestern)</span></p>
 
-### <mark style="background-color: #D3D3D3">Wednesday, August 31, 2022</mark>
+<p class=MsoNormal style='text-indent:.25in'><span lang=EN-US>2.15 pm-2.30
+pm:&nbsp;<b>Break</b></span></p>
 
-8.30 am-9.15 am: **What Drives Variation in Investor Portfolios? Evidence from Retirement Plans** ([Download paper](https://alexandermackay.org/files/What%20Drives%20Variation%20in%20Investor%20Portfolios%20-%20Evidence%20from%20Retirement%20Plans.pdf))\
-Presented by: Alexander MacKay (Harvard University)\
-Co-author(s): Mark Egan (Harvard HBS), and Hanbin Yang (Harvard University)&nbsp; 
-&nbsp;
+<p class=MsoNormal style='margin-left:99.0pt;text-indent:-81.0pt'><span
+lang=EN-US>2.30 pm-3.15 pm:&nbsp;<b>Managing a Housing Boom </b>(<a
+href="http://www.dlgreenwald.com/uploads/4/5/2/8/45280895/cdn_draft.pdf">Download
+paper</a>)<br>
+Presented by: Daniel Greenwald (MIT)<br>
+Co-author(s): Jason Allen (Bank of Canada)</span></p>
 
-9.15 am-9.30 am: **Break**
+<p class=MsoNormal style='text-indent:.25in'><span lang=EN-US>3.15 pm-3.30
+pm:&nbsp;<b>Break</b></span></p>
 
-9.30 am-10.15 am: **Dynamic Pricing Regulation and Welfare in Insurance Markets** ([Download paper](http://www.ko-ami.com/uploads/1/0/5/9/105963965/aizawa_ko_nov2021.pdf))\
-Presented by: Naoki Aizawa (Wisconsin-Madison)\
-Co-author(s): Ami Ko (Georgetown)
+<p class=MsoNormal style='margin-left:99.0pt;text-indent:-81.0pt'><span
+lang=EN-US>3.30 pm-4.15 pm:&nbsp;<b>Corporate Discount Rates </b>(<a
+href="https://kilianhuber.github.io/website/GormsenHuber2022.pdf">Download
+paper</a>)<br>
+Presented by: Kilian Huber (University of Chicago)<br>
+Co-author(s): Niels Gormsen (University of Chicago)</span></p>
 
-10.15 am-11.00 am: **Break**
+<p class=MsoNormal style='background:#F2F2F2'><b><span lang=EN-US
+style='color:black'>Wednesday, August 31, 2022</span></b></p>
 
-11.00 am-11.45 am: **Bank Competition amid Digital Disruption: Implications for Financial Inclusion**\
-Presented by: Erica Jiang (USC Marshall)\
-Co-author(s): Gloria Yu (SMU), and Jinyuan Zhang (UCLA Anderson)
+<p class=MsoNormal style='margin-left:99.0pt;text-indent:-81.0pt'><span
+lang=EN-US>8.30 am-9.15 am:&nbsp;<b>What Drives Variation in Investor
+Portfolios? Evidence from Retirement Plans </b>(<a
+href="https://alexandermackay.org/files/What%20Drives%20Variation%20in%20Investor%20Portfolios%20-%20Evidence%20from%20Retirement%20Plans.pdf">Download
+paper</a>)<br>
+Presented by: Alexander MacKay (Harvard University)<br>
+Co-author(s): Mark Egan (Harvard HBS), and Hanbin Yang (Harvard University)</span></p>
 
-11.45 am-12.00 pm: **Break**
+<p class=MsoNormal style='text-indent:.25in'><span lang=EN-US>9.15 am-9.30
+am:&nbsp;<b>Break</b></span></p>
 
-12.00 pm-12.45 pm: **Asymmetric information in the wholesale market for mortgages: The case of Ginnie Mae loans**\
-Presented by: Ken Hendricks (Wisconsin-Madison)\
-Co-author(s): Houde Jean-François (Wisconsin-Madison), and Diwakar Raisingh (Wisconsin-Madison)
+<p class=MsoNormal style='margin-left:103.5pt;text-indent:-85.5pt'><span
+lang=EN-US>9.30 am-10.15 am:&nbsp;<b>Dynamic Pricing Regulation and Welfare in
+Insurance Markets </b>(<a
+href="http://www.ko-ami.com/uploads/1/0/5/9/105963965/aizawa_ko_nov2021.pdf">Download
+paper</a>)<br>
+Presented by: Naoki Aizawa (Wisconsin-Madison)<br>
+Co-author(s): Ami Ko (Georgetown)</span></p>
 
-1.00 pm-2.00 pm: **Lunch**
+<p class=MsoNormal style='text-indent:.25in'><span lang=EN-US>10.15 am-11.00
+am:&nbsp;<b>Break</b></span></p>
+
+<p class=MsoNormal style='margin-left:1.5in;text-indent:-1.25in'><span
+lang=EN-US>11.00 am-11.45 am:&nbsp;<b>Bank Competition amid Digital Disruption:
+Implications for Financial Inclusion</b><br>
+Presented by: Erica Jiang (USC Marshall)<br>
+Co-author(s): Gloria Yu (SMU), and Jinyuan Zhang (UCLA Anderson)</span></p>
+
+<p class=MsoNormal style='text-indent:.25in'><span lang=EN-US>11.45 am-12.00
+pm:&nbsp;<b>Break</b></span></p>
+
+<p class=MsoNormal style='margin-left:99.0pt;text-indent:-81.0pt'><span
+lang=EN-US>12.00 pm-12.45 pm:&nbsp;<b>Asymmetric information in the wholesale
+market for mortgages: The case of Ginnie Mae loans</b><br>
+Presented by: Ken Hendricks (Wisconsin-Madison)<br>
+Co-author(s): Houde Jean-François (Wisconsin-Madison), and Diwakar Raisingh
+(Wisconsin-Madison)</span></p>
+
+<p class=MsoNormal><span lang=EN-US>1.00 pm-2.00 pm:&nbsp;<b>Lunch</b></span></p>
+
+<p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+
+</div>
+
+</body>
+
+</html>
